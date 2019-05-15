@@ -1,0 +1,96 @@
+# github.com/BurntSushi/toml v0.3.0
+github.com/BurntSushi/toml
+# github.com/Joker/jade v0.0.0-20161230135920-35b3f5bdbcc9
+github.com/Joker/jade
+# github.com/Shopify/goreferrer v0.0.0-20180504163545-aad8439df3bf
+github.com/Shopify/goreferrer
+# github.com/aymerick/raymond v0.0.0-20161209220724-72acac220747
+github.com/aymerick/raymond
+github.com/aymerick/raymond/ast
+github.com/aymerick/raymond/parser
+github.com/aymerick/raymond/lexer
+# github.com/eknkc/amber v0.0.0-20170716093748-b8bd8b03e4f7
+github.com/eknkc/amber
+github.com/eknkc/amber/parser
+# github.com/fatih/structs v1.0.0
+github.com/fatih/structs
+# github.com/flosch/pongo2 v0.0.0-20170704123420-58f1f3387f7c
+github.com/flosch/pongo2
+# github.com/hashicorp/go-version v1.0.0
+github.com/hashicorp/go-version
+# github.com/iris-contrib/blackfriday v2.0.0+incompatible
+github.com/iris-contrib/blackfriday
+# github.com/iris-contrib/formBinder v0.0.0-20171010160137-ad9fb86c356f
+github.com/iris-contrib/formBinder
+# github.com/iris-contrib/go.uuid v2.0.0+incompatible
+github.com/iris-contrib/go.uuid
+# github.com/json-iterator/go v0.0.0-20171212105241-13f86432b882
+github.com/json-iterator/go
+# github.com/juju/errors v0.0.0-20170703010042-c7d06af17c68
+github.com/juju/errors
+# github.com/kataras/golog v0.0.0-20180311153849-dd676348ce75
+github.com/kataras/golog
+# github.com/kataras/iris v0.0.0-20181118033431-39b8b1eb00ea
+github.com/kataras/iris
+github.com/kataras/iris/cache
+github.com/kataras/iris/context
+github.com/kataras/iris/core/errors
+github.com/kataras/iris/core/handlerconv
+github.com/kataras/iris/core/host
+github.com/kataras/iris/core/maintenance
+github.com/kataras/iris/core/netutil
+github.com/kataras/iris/core/router
+github.com/kataras/iris/middleware/logger
+github.com/kataras/iris/middleware/recover
+github.com/kataras/iris/view
+github.com/kataras/iris/cache/client
+github.com/kataras/iris/core/memstore
+github.com/kataras/iris/core/router/macro
+github.com/kataras/iris/core/maintenance/version
+github.com/kataras/iris/core/router/macro/interpreter/ast
+github.com/kataras/iris/core/router/macro/interpreter/lexer
+github.com/kataras/iris/core/router/node
+github.com/kataras/iris/cache/cfg
+github.com/kataras/iris/cache/client/rule
+github.com/kataras/iris/cache/entry
+github.com/kataras/iris/cache/ruleset
+github.com/kataras/iris/cache/uri
+github.com/kataras/iris/core/router/macro/interpreter/parser
+github.com/kataras/iris/core/router/macro/interpreter/token
+# github.com/kataras/pio v0.0.0-20170809181920-825e39f34365
+github.com/kataras/pio
+github.com/kataras/pio/terminal
+# github.com/kataras/survey v2.0.0+incompatible
+github.com/kataras/survey
+github.com/kataras/survey/core
+github.com/kataras/survey/terminal
+# github.com/klauspost/compress v1.2.1
+github.com/klauspost/compress/gzip
+github.com/klauspost/compress/flate
+# github.com/klauspost/cpuid v0.0.0-20170728055534-ae7887de9fa5
+github.com/klauspost/cpuid
+# github.com/klauspost/crc32 v0.0.0-20161016154125-cb6bfca970f6
+github.com/klauspost/crc32
+# github.com/mattn/go-colorable v0.0.9
+github.com/mattn/go-colorable
+# github.com/mattn/go-isatty v0.0.4
+github.com/mattn/go-isatty
+# github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b
+github.com/mgutz/ansi
+# github.com/microcosm-cc/bluemonday v0.0.0-20170828205859-1c44c0b45a21
+github.com/microcosm-cc/bluemonday
+# github.com/ryanuber/columnize v0.0.0-20170703205827-abc90934186a
+github.com/ryanuber/columnize
+# github.com/shurcooL/sanitized_anchor_name v0.0.0-20170515013256-541ff5ee47f1
+github.com/shurcooL/sanitized_anchor_name
+# golang.org/x/crypto v0.0.0-20180112200814-13931e22f9e7 => github.com/golang/crypto v0.0.0-20181025213731-e84da0312774
+golang.org/x/crypto/acme/autocert
+golang.org/x/crypto/acme
+# golang.org/x/net v0.0.0-20170828231752-66aacef3dd8a => github.com/golang/net v0.0.0-20190206173232-65e2d4e15006
+golang.org/x/net/publicsuffix
+golang.org/x/net/html
+golang.org/x/net/html/atom
+# golang.org/x/sys v0.0.0-20180312081825-c28acc882ebc => github.com/golang/sys v0.0.0-20190209173611-3b5209105503
+golang.org/x/sys/unix
+# gopkg.in/yaml.v2 v2.2.1
+gopkg.in/yaml.v2

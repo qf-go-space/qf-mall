@@ -1,0 +1,43 @@
+整体使用的技术框架
+web框架：iris
+
+
+包管理工具：
+vender + dep：
+dep相关命令：
+# 依赖管理帮助
+dep help ensure
+# 添加一条依赖
+dep ensure -add github.com/bitly/go-simplejson
+# 这里 @= 参数指定的是 某个 tag
+dep ensure -add github.com/bitly/go-simplejson@=0.4.3
+# 添加后一定记住执行 确保 同步
+dep ensure
+# 建议使用
+dep ensure -v
+#  删除没有用到的 package
+dep prune -v
+# 依赖更新
+dep ensure -update -v 
+
+vender + go module
+
+有四种指令：module，require，exclude，replace。
+module：模块名称
+require：依赖包列表以及版本
+exclude：禁止依赖包列表（仅在当前模块为主模块时生效）
+replace：替换依赖包列表 （仅在当前模块为主模块时生效）
+
+go mod tidy //拉取缺少的模块，移除不用的模块。
+go mod download //下载依赖包
+go mod graph //打印模块依赖图
+go mod vendor //将依赖复制到vendor下
+go mod verify //校验依赖
+go mod why //解释为什么需要依赖
+go list -m -json all //依赖详情
+
+参考文章：
+https://www.codercto.com/a/63750.html
+https://www.codercto.com/a/65368.html
+https://www.codercto.com/a/23019.html
+https://www.codercto.com/a/65369.html
